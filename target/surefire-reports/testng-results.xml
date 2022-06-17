@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[java]]>
+    </line>
+    <line>
+      <![CDATA[c#]]>
+    </line>
+    <line>
+      <![CDATA[pyton]]>
+    </line>
+    <line>
+      <![CDATA[ruby]]>
+    </line>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="110" started-at="2022-05-26T23:09:03 IST" finished-at="2022-05-26T23:09:03 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="110" started-at="2022-05-26T23:09:03 IST" finished-at="2022-05-26T23:09:03 IST">
+      <class name="Demo.Test0">
+        <test-method status="PASS" signature="tc0()[pri:0, instance:Demo.Test0@6adede5]" name="tc0" duration-ms="9" started-at="2022-05-26T23:09:03 IST" finished-at="2022-05-26T23:09:03 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[java]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc0 -->
+      </class> <!-- Demo.Test0 -->
+      <class name="Demo.Test3">
+        <test-method status="PASS" signature="tc3()[pri:0, instance:Demo.Test3@1e127982]" name="tc3" duration-ms="0" started-at="2022-05-26T23:09:03 IST" finished-at="2022-05-26T23:09:03 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[ruby]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- Demo.Test3 -->
+      <class name="Demo.Test2">
+        <test-method status="PASS" signature="test2()[pri:0, instance:Demo.Test2@617faa95]" name="test2" duration-ms="0" started-at="2022-05-26T23:09:03 IST" finished-at="2022-05-26T23:09:03 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[pyton]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- Demo.Test2 -->
+      <class name="Demo.Test1">
+        <test-method status="PASS" signature="tset1()[pri:0, instance:Demo.Test1@7e0b0338]" name="tset1" duration-ms="1" started-at="2022-05-26T23:09:03 IST" finished-at="2022-05-26T23:09:03 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[c#]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tset1 -->
+      </class> <!-- Demo.Test1 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
